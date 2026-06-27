@@ -1,0 +1,6 @@
+{
+  "name": "Bill & Tip Splitter",
+  "description": "A clean, modern, and extremely useful tool to calculate tips and split bills easily among friends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
